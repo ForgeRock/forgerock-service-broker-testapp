@@ -35,13 +35,13 @@ profile icon then select 'view profile' to see all your forks. </li>
 
 <p>Obtaining the code this way will allow you to create pull requests later. </p>
 
-##How to use the app
 
+###How to use the app
    
 1. push the app to Cloud Foundry
   
- Clone the testapp, then from the test app project directory:  
-<code>cf push frtestapp</code>
+  Clone the testapp, then from the test app project directory:  
+ <code>cf push frtestapp</code>
 
 For complete directions on using the test app with the Forgerock Service Broker, go here:  
 [https://github.com/ForgeRock/forgerock-service-broker-cloudfoundry](https://github.com/ForgeRock/forgerock-service-broker-cloudfoundry)
